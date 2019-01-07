@@ -6,8 +6,6 @@
     // (2) Minimum Age Model, 
     // (3) Maximum Age Model,
     // With stratigraphic constraint. 
-    // The additional uncertainties added in quadrature to the relative standard  
-    // error of De values of different samples are fixed during the simulation.
     //
     // Peng Jun, 2019.01.07.
 
